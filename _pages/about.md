@@ -24,4 +24,4 @@ My interest in engineering and medicine started at UCSD, where I graduated in 20
 
 Non-profit Work
 ---------------
-For a summary of my involvement in nonprofit and charity work, see [here](nonprofit.md)
+For a summary of my involvement in nonprofit and charity work, see [here](/_pages/nonprofit)

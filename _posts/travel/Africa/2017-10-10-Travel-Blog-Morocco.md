@@ -11,10 +11,6 @@ gallery:{photo}morocco
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-            - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-            - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
-            - [If you need taxify \(you'll get a free $5 off!\):](#if-you-need-taxify-youll-get-a-free-%245-off)
     - [Airports](#airports)
             - [1. Casablanca Airport \(CMN\)](#1-casablanca-airport-cmn)
             - [2. Marrakesh Menara Airport \(RAK\)](#2-marrakesh-menara-airport-rak)
@@ -38,14 +34,6 @@ gallery:{photo}morocco
 
 # General Suggestions
 Know your geography in Morocco. Since everything is easily accessible by train/night train, you can plan your trip by region and not spend too long in one city.
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need uber (you'll get a free ride!):
-<a href="https://www.uber.com/invite/lffud">https://www.uber.com/invite/lffud</a>
-#### If you need taxify (you'll get a free $5 off!):
-<a href="https://invite.taxify.eu/EZN7D">https://invite.taxify.eu/EZN7D</a>
 
 ## Airports
 There are about 3 main airports that you can fly into from Europe and then get around to the rest of the country either by train, or by grand taxi.
