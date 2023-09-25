@@ -1,5 +1,5 @@
 ---
-title: A collection of environmental tips
+title: 'A collection of environmental tips'
 date: 2023-01-05
 permalink: /posts/2023/01/environmental-tips/
 tags:

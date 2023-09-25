@@ -1,5 +1,5 @@
 ---
-title: Personal Goals - 2017
+title: 'Personal Goals - 2017'
 date: 2016-12-31
 permalink: /posts/2016/12/personal-goals-2017/
 tags:

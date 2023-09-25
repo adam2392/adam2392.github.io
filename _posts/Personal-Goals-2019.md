@@ -1,5 +1,5 @@
 ---
-title: Personal Goals - 2019
+title: 'Personal Goals - 2019'
 date: 2018-12-31
 permalink: /posts/2018/12/personal-goals-2019/
 tags:

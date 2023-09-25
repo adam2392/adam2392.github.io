@@ -1,5 +1,5 @@
 ---
-title: Personal Goals - 2022
+title: 'Personal Goals - 2022'
 date: 2021-12-31
 permalink: /posts/2021/12/personal-goals-2022/
 tags:

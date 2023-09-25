@@ -1,5 +1,5 @@
 ---
-title: Europe - Living and Traveling
+title: 'Europe - Living and Traveling'
 date: 2018-06-01
 permalink: /posts/2018/06/europe-summary-2018/
 tags:
