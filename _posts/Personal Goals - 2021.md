@@ -1,9 +1,12 @@
-Title: Personal Goals - 2021
-Date: 2020-12-24
-Category: Personal
-Tags: personal, goals
-Slug: goals-2021
-Authors: Adam Li
+---
+title: Personal Goals - 2021
+date: 2020-12-31
+permalink: /posts/2020/12/personal-goals-2021/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2021.
 
 # Summary of 2020

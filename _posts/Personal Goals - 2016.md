@@ -1,15 +1,13 @@
 ---
-Title: Personal Goals - 2016
-Date: 2015-12-31
-Category: Personal
+title: Personal Goals - 2016
+date: 2015-12-31
 permalink: /posts/2015/12/personal-goals-2016/
 tags:
   - personal
   - goals
-Slug: personal-goals
-Authors: Adam Li
-Summary: A summary of goals for 2016.
 ---
+
+Summary: A summary of goals for 2016.
 
 Each year passes by faster and faster in my opinion, so I want to make the most out of 2016. As 2016 comes and 2015 comes to a close, I want to make some resolutions and goals for the new year.
 

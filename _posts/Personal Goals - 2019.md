@@ -1,9 +1,12 @@
-Title: Personal Goals - 2019
-Date: 2018-01-07
-Category: Personal
-Tags: personal, goals
-Slug: goals-2019
-Authors: Adam Li
+---
+title: Personal Goals - 2019
+date: 2018-12-31
+permalink: /posts/2018/12/personal-goals-2019/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2019.
 
 Another year has passed, and its getting harder and harder for me to distinguish the years from each other. Every new years goals post seems to be written just a few days ago in my head. This year was filled with transitions, both personal and professional. I started off the year living in France, and traveling to Switzerland to see how a NYE abroad would be like. The time abroad up until August was an experience that really taught me how to survive in a completely different country without a cohort of students around me, or a friend group from college for support. I did a lot of traveling in Europe, seeing countries and cities that I've never been to, such as Hungary, Portugal, Morocco and more. 

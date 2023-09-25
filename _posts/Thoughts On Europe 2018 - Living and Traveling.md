@@ -1,9 +1,13 @@
-Title: Europe - Living and Traveling
-Date: 2018-06-01
-Category: Personal
-Tags: personal, travel, europe
-Slug: europe-summary-2018
-Authors: Adam Li
+---
+title: Europe - Living and Traveling
+date: 2018-06-01
+permalink: /posts/2018/06/europe-summary-2018/
+tags:
+  - personal
+  - goals
+  - travel
+---
+
 Summary: A summary of my time abroad in Europe, 2017-2018.
 
 <!-- MarkdownTOC -->

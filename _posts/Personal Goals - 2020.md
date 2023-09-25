@@ -1,9 +1,12 @@
-Title: Personal Goals - 2020
-Date: 2020-01-01
-Category: Personal
-Tags: personal, goals
-Slug: goals-2020
-Authors: Adam Li
+---
+title: Personal Goals - 2020
+date: 2019-12-31
+permalink: /posts/2019/12/personal-goals-2020/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2020.
 
 This year was a great way to end what I like to call a decade of growth. These past 10 years, I went from high school to college. I found out the things I love, the things I hate and the things that I could care less about. Love came and went, along with different friends. Above all else, I am almost certain that I've found what I love to do. Science, and the ability to "make discoveries" that can help people are what I hope to do for the rest of my life. I came to graduate school without understanding why I wanted to be there, and where I wanted to go, but now I'm getting ready to leave... at least understanding why I came. 

@@ -1,9 +1,12 @@
-Title: Personal Goals - 2022
-Date: 2022-01-02
-Category: Personal
-Tags: personal, goals
-Slug: goals-2022
-Authors: Adam Li
+---
+title: Personal Goals - 2022
+date: 2021-12-31
+permalink: /posts/2021/12/personal-goals-2022/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2022.
 
 # Summary of 2021

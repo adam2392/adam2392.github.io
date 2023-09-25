@@ -1,15 +1,13 @@
 ---
-Title: A collection of environmental tips
-Date: 2023-01-05
-Category: Personal
+title: A collection of environmental tips
+date: 2023-01-05
 permalink: /posts/2023/01/environmental-tips/
 tags:
   - personal
   - goals
-Slug: environmental-tips
-Authors: Adam Li
-Summary: A summary of environmental tips, tricks and reminders I learned about, or corrected.
 ---
+
+Summary: A summary of environmental tips, tricks and reminders I learned about, or corrected.
 
 Currently, a work-in-progress. If you feel that I'm missing anything, please let me know! I'm hoping this will be a light-weight resource for my friends and family and network.
 

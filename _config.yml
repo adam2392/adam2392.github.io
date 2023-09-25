@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Li's Site"
+title                    : "Adam Li"
 title_separator          : "-"
 name                     : &name "Adam Li, PhD"
 description              : &description "Postdoctoral Research Scientist at Columbia University"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Li"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Postdoctoral Research Scientist in Causal AI"
   location         : "New York City"
   employer         :

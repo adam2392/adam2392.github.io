@@ -1,9 +1,12 @@
-Title: Personal Goals - 2018
-Date: 2017-12-31
-Category: Personal
-Tags: personal, goals
-Slug: goals-2018
-Authors: Adam Li
+---
+title: Personal Goals - 2018
+date: 2017-12-31
+permalink: /posts/2017/12/personal-goals-2018/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2018.
 
 This year has been a fantastic year from beginning to end. I turned the big 2 5 (yay 1 year older). However, this year came with a lot of fun as I spent time at Coachella 2017, made it out for birthdays of my friends in Vegas, spent time in SF, LA, SD and Chicago visiting old friends, enjoyed new time with Hopkins friends in NYC, Boston and DC, and spent a lot of time enjoying my "relative" last year in Baltimore. I was fortunate enough to win three prestigious fellowships: the NSF-GRFP, Whitaker and Chateaubriand fellowships. I presented two conference papers at two different conferences, where I was even able to make a trip through Korea and Japan come out of it. It's ending with me being in France working with the Theoretical Neurosciences Group in Marseille. I am incredibly fortunate to be working in a group of extraordinary people from all different countries and backgrounds. I am learning so much and developing new ideas that I honestly can't say I would've had if I were just back in Baltimore. I think I have some explicit goals this year related to my work because I find it fascinating.

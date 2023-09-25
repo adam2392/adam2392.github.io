@@ -1,9 +1,12 @@
-Title: Personal Goals - 2023
-Date: 2023-01-02
-Category: Personal
-Tags: personal, goals
-Slug: goals-2023
-Authors: Adam Li
+---
+title: Personal Goals - 2023
+date: 2022-12-31
+permalink: /posts/2022/12/personal-goals-2023/
+tags:
+  - personal
+  - goals
+---
+
 Summary: A summary of goals for 2023.
 
 # Summary of 2022
