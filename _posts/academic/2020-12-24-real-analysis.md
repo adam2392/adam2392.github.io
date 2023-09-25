@@ -1,9 +1,13 @@
-Title: Real Analysis (Lebesgue Integration, Differentiation and Measure)
-Date: 2020-12-24
-Category: Academic
-Tags: math, phd, real-analysis
-Slug: real-analysis
-Authors: Adam Li
+---
+title: 'Real Analysis (Lebesgue Integration, Differentiation and Measure)'
+date: 2020-12-24
+permalink: /posts/2020/12/real-analysis/
+tags:
+  - phd
+  - math
+  - courses
+---
+
 Summary: A short summary of important concepts in Real Analysis
 
 # Summary

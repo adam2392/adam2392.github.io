@@ -1,9 +1,12 @@
-Title: Writing an Academic Journal Paper 
-Date: 2021-02-02 
-Category: Academic 
-Tags: writing, phd, johns hopkins 
-Slug: writing-journal-papers 
-Authors: Adam Li 
+---
+title: 'Writing an Academic Journal Paper '
+date: 2021-02-02
+permalink: /posts/2021/02/writing-paper/
+tags:
+  - phd
+  - writing
+---
+
 Summary: A short walkthrough of my experience of writing an academic journal paper.
 
 Writing Academic Journal Papers

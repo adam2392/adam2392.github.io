@@ -1,9 +1,11 @@
-Title: Doctoral Board Oral Exam (PhD)
-Date: 2017-8-5
-Category: Academic
-Tags: doctoral board oral, phd, johns hopkins
-Slug: doctoral-board-oral
-Authors: Adam Li
+---
+title: 'Doctoral Board Oral Exam (PhD)'
+date: 2017-08-05
+permalink: /posts/2017/08/dbo/
+tags:
+  - phd
+---
+
 Summary: A short walkthrough of my experience with the DBO exam at Johns Hopkins University
 
 # Doctoral Board Oral Exam
