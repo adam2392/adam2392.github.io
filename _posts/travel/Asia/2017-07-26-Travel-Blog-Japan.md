@@ -1,18 +1,18 @@
-Title: Travel - Japan
-Date: 2017-7-26
-Category: Travel
-Tags: travel, japan
-Slug: travel-japan
-Authors: Adam Li
+---
+title: 'Travel - Japan'
+date: 2017-7-26
+permalink: /posts/2017/07/travel-japan/
+tags:
+  - travel
+  - asia
+---
+
 Summary: A walkthrough of my experience in Japan.
 
 # Asia - Japan
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-            - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-            - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
     - [Airports](#airports)
         - [Tokyo:](#tokyo)
             - [1. Narita airport](#1-narita-airport)
@@ -49,12 +49,6 @@ Summary: A walkthrough of my experience in Japan.
 
 # General Suggestions
 This is a blog post assuming you'll be spending a bit of time around the entirety of Japan (e.g. few days in a few cities). Know your geography in Japan. Since everything is easily accessible by high speed train, you can plan your trip by region.
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need uber (you'll get a free ride!):
-<a href="https://www.uber.com/invite/lffud">https://www.uber.com/invite/lffud</a>
 
 ## Airports
 ### Tokyo:

@@ -1,19 +1,18 @@
-Title: Travel - Amsterdam
-Date: 2018-04-28
-Category: Travel
-Tags: travel, europe, netherlands, amsterdam
-Slug: travel-amsterdam
-Authors: Adam Li
+---
+title: 'Travel - Amsterdam'
+date: 2017-07-26
+permalink: /posts/2018/04/travel-amsterdam/
+tags:
+  - travel
+  - europe
+---
+
 Summary: A summary of how to visit Amsterdam and get the most out of your trip.
 
 # Europe - Amsterdam, Netherlands
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-        - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-        - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
-        - [If you need taxify \(you'll get a free $5 off!\):](#if-you-need-taxify-youll-get-a-free-%245-off)
     - [Airports](#airports)
         - [1. Schipol Airport](#1-schipol-airport)
     - [Sights](#sights)

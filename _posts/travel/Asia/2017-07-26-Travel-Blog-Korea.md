@@ -1,19 +1,18 @@
-Title: Travel - Korea
-Date: 2017-7-26
-Category: Travel
-Tags: travel, korea, seoul
-Slug: travel-korea
-Authors: Adam Li
+---
+title: 'Travel - Korea'
+date: 2017-07-26
+permalink: /posts/2017/07/travel-korea/
+tags:
+  - travel
+  - asia
+---
+
 Summary: A walkthrough of my experience in Seoul.
 
 # Asia - Seoul, South Korea
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-        - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-        - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
-        - [If you need taxify \(you'll get a free $5 off!\):](#if-you-need-taxify-youll-get-a-free-%245-off)
     - [Sights](#sights)
         - [1. Namsan Tower](#1-namsan-tower)
         - [2. Gwanghwamun Palace and Gyeongbukgong Palace](#2-gwanghwamun-palace-and-gyeongbukgong-palace)
@@ -28,14 +27,6 @@ Summary: A walkthrough of my experience in Seoul.
 
 <!-- /MarkdownTOC -->
 # General Suggestions
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need uber (you'll get a free ride!):
-<a href="https://www.uber.com/invite/lffud">https://www.uber.com/invite/lffud</a>
-#### If you need taxify (you'll get a free $5 off!):
-<a href="https://invite.taxify.eu/EZN7D">https://invite.taxify.eu/EZN7D</a>
 
 ## Sights
 #### 1. Namsan Tower

@@ -1,9 +1,12 @@
-Title: Travel - Morocco
-Date: 2017-10-10
-Category: Travel
-Tags: travel, africa, morocco, marrakech, casablanca
-Slug: travel-morocco
-Authors: Adam Li
+---
+title: 'Travel - Morocco'
+date: 2017-10-10
+permalink: /posts/2017/10/travel-morocco/
+tags:
+  - travel
+  - africa
+---
+
 Summary: A summary of how to visit Morocco and get the most out of your trip.
 gallery:{photo}morocco
 

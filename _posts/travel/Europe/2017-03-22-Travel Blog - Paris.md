@@ -1,19 +1,18 @@
-Title: Travel - Paris
-Date: 2017-03-22
-Category: Travel
-Tags: travel, europe, france, paris
-Slug: travel-paris
-Authors: Adam Li
+---
+title: 'Travel - Paris'
+date: 2017-03-22
+permalink: /posts/2017/03/travel-paris/
+tags:
+  - travel
+  - europe
+---
+
 Summary: A summary of how to visit Paris and get the most out of your trip.
 
 # Europe - Lyon, France
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-        - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-        - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
-        - [If you need taxify \(you'll get a free $5 off!\):](#if-you-need-taxify-youll-get-a-free-%245-off)
     - [Airports](#airports)
         - [1. Charles De Gaulle Airport](#1-charles-de-gaulle-airport)
         - [2. Orly Airport](#2-orly-airport)
@@ -36,14 +35,6 @@ Summary: A summary of how to visit Paris and get the most out of your trip.
 <!-- /MarkdownTOC -->
 
 # General Suggestions
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need uber (you'll get a free ride!):
-<a href="https://www.uber.com/invite/lffud">https://www.uber.com/invite/lffud</a>
-#### If you need taxify (you'll get a free $5 off!):
-<a href="https://invite.taxify.eu/EZN7D">https://invite.taxify.eu/EZN7D</a>
 
 ## Airports
 #### 1. Charles De Gaulle Airport

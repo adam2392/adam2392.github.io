@@ -1,19 +1,19 @@
-Title: Travel - Budapest
-Date: 2017-10-22
-Category: Travel
-Tags: travel, europe, hungary, budapest
-Slug: travel-budapest
-Authors: Adam Li
+---
+title: 'Travel - Budapest'
+date: 2017-10-22
+permalink: /posts/2017/10/travel-budapest/
+tags:
+  - travel
+  - europe
+---
+
 Summary: A summary of how to visit Budapest and get the most out of your trip.
 
 # Europe - Budapest, Hungary
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-        - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-        - [If you need taxify \(you'll get a free $5 off!\):](#if-you-need-taxify-youll-get-a-free-%245-off)
-        - [Sample Itinerary](#sample-itinerary)
+    - [Sample Itinerary](#sample-itinerary)
     - [Airports](#airports)
         - [1. Budapest International Airport](#1-budapest-international-airport)
     - [Sights/Activities](#sightsactivities)
@@ -34,12 +34,6 @@ Summary: A summary of how to visit Budapest and get the most out of your trip.
 <!-- /MarkdownTOC -->
 
 # General Suggestions
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need taxify (you'll get a free $5 off!):
-<a href="https://invite.taxify.eu/EZN7D">https://invite.taxify.eu/EZN7D</a>
 
 #### Sample Itinerary
 <a href="https://docs.google.com/spreadsheets/d/1gYT-UxSW0CtTBlGOznBtBnpnF5huMIQmP7xUmOPhynE/edit?usp=sharing">Charles' Optimized Itin.</a>

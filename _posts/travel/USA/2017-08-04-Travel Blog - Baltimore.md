@@ -1,19 +1,18 @@
-Title: Travel - Baltimore
-Date: 2017-8-4
-Category: Travel
-Tags: travel, baltimore, usa
-Slug: travel-baltimore
-Authors: Adam Li
+---
+title: 'Travel - Baltimore'
+date: 2017-08-04
+permalink: /posts/2017/08/travel-baltimore/
+tags:
+  - travel
+  - usa
+---
+
 Summary: A walkthrough of my experience in Baltimore.
 
 # Baltimore, MD
 <!-- MarkdownTOC autolink="true" -->
 
 - [General Suggestions](#general-suggestions)
-    - [Important Links](#important-links)
-        - [If you need airbnb \(you'll get a free $40 off\):](#if-you-need-airbnb-youll-get-a-free-%2440-off)
-        - [If you need uber \(you'll get a free ride!\):](#if-you-need-uber-youll-get-a-free-ride)
-        - [If you need lyft \(you'll get a free ride!\):](#if-you-need-lyft-youll-get-a-free-ride)
     - [Sights](#sights)
         - [1. Peabody Library:](#1-peabody-library)
         - [2. Inner Harbor:](#2-inner-harbor)
@@ -35,14 +34,6 @@ Summary: A walkthrough of my experience in Baltimore.
 
 <!-- /MarkdownTOC -->
 # General Suggestions
-
-## Important Links
-#### If you need airbnb (you'll get a free $40 off):
-<a href="https://abnb.me/e/jRvXPz3dUH">https://abnb.me/e/jRvXPz3dUH</a>
-#### If you need uber (you'll get a free ride!):
-<a href="https://www.uber.com/invite/lffud">https://www.uber.com/invite/lffud</a>
-#### If you need lyft (you'll get a free ride!):
-<a href="https://lyft.com/ici/ADAM10866">https://lyft.com/ici/ADAM10866</a>
 
 ## Sights
 #### 1. Peabody Library: 
