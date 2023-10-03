@@ -25,3 +25,7 @@ My interest in engineering and medicine started at UCSD, where I graduated in 20
 Non-profit Work
 ---------------
 For a summary of my involvement in nonprofit and charity work, see [here](/nonprofit)
+
+## News (starting 10/2023)
+- **10/2023** - Our paper ["Causal discovery from observational and interventional data across multiple environments"](https://causalai.net/r98.pdf) was accepted to **NeurIPS 2023**! Very thankful for my co-authors, Dr. Elias Bareinboim and Dr. Amin Jaber.
+- **08/2022** - Our paper ["Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks"](https://arxiv.org/abs/1909.11799) was accepted to **SIMODS**!
