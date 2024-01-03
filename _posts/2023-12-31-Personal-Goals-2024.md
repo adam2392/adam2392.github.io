@@ -88,10 +88,14 @@ This year is a milestone for us because we're going to finally get married. Besi
 
 ## 2. Professional
 
+This year is a bit hard to figure out. On one hand, I'm still very much interested in having a career in research and potentially academia. On the other hand, I understand the challenges of finding a geographical location both my partner and I would live at, with sufficient pay with a fulfilling career. With that in mind, I set a few goals assuming my postdoc will come to an end towards the later half of this year.
+
 - [ ] Finish my JMLR paper on causal discovery across multiple environments.
+- [ ] Get MIGHT paper published and also the follow-on maximizing performance at sensitivity at 98% specificity for cancer detection paper. Fingers crossed both go somewhere super high impact.
 - [ ] Finish scikit-tree development of hypothesis testing (via OSPO) and causal effect estimation (via VISS Schmidt Futures and OSPO).
 - [ ] Write one new paper on causal inference related to either causal discovery, or causal representation learning.
-
+- [ ] Finish series of PRs to add missing-value support for ExtraTrees in scikit-learn.
+ 
 ## 3. Misc. / Outreach / Societal Impact
 
 - [ ] Schedule 5-6 blood donations this year.
