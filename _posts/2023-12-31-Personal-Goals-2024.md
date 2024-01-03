@@ -1,6 +1,6 @@
 ---
 title: 'Personal Goals - 2024'
-date: 2022-12-31
+date: 2023-12-31
 permalink: /posts/2023/12/personal-goals-2024/
 tags:
   - personal
