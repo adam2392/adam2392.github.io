@@ -7,6 +7,8 @@ tags:
   - academic
 ---
 
+Summary: A short walkthrough of common interview questions.
+
 Summary of interview questions
 
 1. [Probability and Statistics]

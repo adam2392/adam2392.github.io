@@ -7,6 +7,8 @@ tags:
   - math
 ---
 
+Summary: A short walkthrough of common math patterns that are useful for solving algorithmic problems.
+
 # Math Patterns
 
 ## Numerical Programming

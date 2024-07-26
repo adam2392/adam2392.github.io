@@ -6,6 +6,9 @@ tags:
   - interview
   - coding
 ---
+
+Summary: A short walkthrough of common coding patterns that are useful for solving algorithmic problems.
+
 # Coding Patterns
 
 ## Linked List
