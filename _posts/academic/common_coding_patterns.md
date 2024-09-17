@@ -95,3 +95,16 @@ Notes:
 2. `get_candidates` returns a list of candidates that can be added to the current state. This
 function should in theory check the "validity" of adding a candidate to the current state.
 A common constraint would for example be to not add a candidate that is already in the state.
+
+## Priority Queue / Heaps
+
+When one is tracking the kth largest/smallest numbers, one can use a heap. A common algorithmic pattern is to maintain a heap of length "k", which allows one to in O(1) time get the kth largest/smallest number.
+
+Usually, this will only take O(n log(n)) time since one would need to iterate through all elements in an input, and each possible insertion into the heap would take O(log(n)) time.
+
+# Probabilistic DP
+
+These classes of problems are not available on leetcode.
+
+https://www.math.cuhk.edu.hk/~wei/opextraondp2.pdf
+https://cs.stackexchange.com/search?q=%5Bdynamic-programming%5D+probability

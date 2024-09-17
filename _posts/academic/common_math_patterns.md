@@ -65,3 +65,30 @@ $$f(\frac{x+y}{2}) \leq \frac{f(x) + f(y)}{2}$$
 In the context of how it is used in machine learning, we commonly relate the function of an expectation to the expectation of the function.
 
 $$f(E[X]) \leq E[f(X)]$$
+
+## Probability Calculus
+
+### Moment Generating Functions (MGF)
+
+Traditionally, a probability distribution is described using its PDF, or CDF. An alternative way to describe a distribution is through its moment generating function (MGF). The MGF is defined as:
+
+$$M_X(t) = E[e^{tX}]$$
+
+This formulation seems more abstract, but it has some nice properties. For example, the MGF of the sum of two independent random variables is the product of their MGFs. This is a very useful property when dealing with sums of random variables.
+
+### Cumulative density function (CDF) and Probability density function (PDF)
+
+The cumulative density function (CDF) is the probability that a random variable takes on a value less than or equal to a certain value. The probability density function (PDF) is the derivative of the CDF. Many interview questions allow you to solve problems by deriving the PDF from the CDF. For example, consider the problem of deriving the PDF of the min/max of two independent random variables:
+
+$$F_{min}(z) = P(min(X, Y) \leq z) = 1 - P(min(X, Y) > z) = 1 - P(X > z, Y > z) = 1 - P(X > z)P(Y > z)$$
+
+Assuming, we know the CDF of the individual random variables, we can write:
+
+$$F_{min}(z) = 1 - (1 - F_X(z))(1 - F_Y(z))$$
+
+Now, we can differentiate the CDF to get the PDF:
+
+$$f_{min}(z) = \frac{dF_{min}(z)}{dz} = f_X(z)(1 - F_Y(z)) + f_Y(z)(1 - F_X(z))$$
+
+Note that assuming independence is crucial for this derivation. If the random variables have the same distribution, we can simplify this even further. The maximum of two random variables can be derived in a similar way.
+

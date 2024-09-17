@@ -21,7 +21,7 @@ or alternatively
 
 I eat pizza on saturday w/ 30% chance and sunday w/ 40% chance. What is the probability that I eat pizza at least once over the weekend (i.e. Saturday and Sunday)? 
 
-What is the range of probabilities possible for eating pizza at least once over the weekend if eating pizza on Sunday is dependent on Saturday. Use inclusion-exclusion principle.
+What is the range of probabilities possible for eating pizza at least once over the weekend if eating pizza on Sunday is dependent on Saturday. Use inclusion-exclusion principle and bounds on the P(A \cup B) events given P(A) and P(B).
 
 2. [Probability and Statistics + Coding]
 
@@ -119,6 +119,38 @@ print(ev)
 
 5. https://jerryqin.com/posts/a-working-list-of-probability-problems-week-three
 
+6. https://x.com/littmath/status/1769044719034647001?s=43&t=Ew8eS1seDjHua2vB1f40Tw
+Flip a fair coin 100 times—it gives a sequence of heads (H) and tails (T). For each HH in the sequence of flips, Alice gets a point; for each HT, Bob does, so e.g. for the sequence THHHT Alice gets 2 points and Bob gets 1 point. Who is most likely to win?
+
+Hint: First consider the expected value, and note that the expected number of points is
+different from the probability of winning, where P(A wins) = P(A points > B points), and
+P(B wins) = P(B points > A points).
+
+Conceptually, consider the entropy of the game, and the fact that there are more states with
+higher entropy (i.e. more combinations of a specific type, compared to another type).
+
+Answer: Bob since there are more states in which Bob will win for a given sequence of flips.
+
+b. Follow-up: What is the advantage that Bob has over Alice? I.e. What is the difference 
+P(B wins) - P(A wins) for 100 flips? What about for n flips? Code it up.
+
+Hint: As the number of flips increase, the advantage Bob has over Alice should decrease.
+ 
+ https://stats.stackexchange.com/questions/643092/coin-flip-game-hh-vs-ht-in-a-sequence-of-flips
+
+
+# Probability Brain Teasers
+
+1. How many hershey kisses sold in USA last year?
+
+Extrapolate starting from USA population: 330M. Now, we want to determine which subset
+of the population would eat Hershey kisses, and which time periods of the year they would eat it.
+
+- Population: Let's say people between ages 5-70 eat Hershey kisses because everyone else is too young or too old. This is maybe 80% of the population, so 0.8 * 330M = ~264M.
+
+- Frequency: Let's say people eat Hershey kisses on average 1 time a week. This is 52 times a year. With double the amount during Halloween, Christmas, and Easter, we can say 52 + 3 * 52 = 208 times a year. 
+
+Our final answer is somewhere around 208 * 264M, so more than 50B Hershey kisses sold in the USA last year.
 
 ## DE Shaw Phone Interview
 
@@ -171,6 +203,17 @@ For example, we could have a return of 0.4, -0.2, -0.2, 0.0, which sums up to 0,
 
 So in general, it is impossible to say anything about p(t) with respect to p(0) because we do not know the sign of the term \prod_{i=1}^30 r(i).
 
+## Jane Street Puzzles
+
+1. Robot tug-of-war (https://www.janestreet.com/puzzles/robot-tug-of-war-index/)
+
+Strategy: first calculate the probability of winning for first robot, which is a recursive function similar to heads/tails recursion.
+
+Determine the probability of winning only up to 7 digits, as that would be the answer.
+
+
+2. The 100 prisoners problem (https://www.janestreet.com/puzzles/100-prisoners-index/)
+
 ## Machine Learning
 xref: https://medium.com/series/6c1e95b4b64a
 
@@ -205,8 +248,29 @@ https://github.com/ngavrish/coursera-machine-learning-1/tree/master/quiz
 
 https://github.com/dingran/quant-notes
 
+# Five Rings sample questions
+
+How many pizzs sold in NYC every year?
+
+How many coffee cups does the world dink in one day?
+
+First round 1. Tenth root of 10 2. Log_{1.2}(3) 3. Water in a olympic pool 4. Weight of a baby elephant 5. Digits in 50 ! 6. Max slices of a pizza after 10 cuts Second round: 1. Roll 6 sided dice EV 2. Roll 2 6 sided dice, only get to roll the second one if you can't roll a sum over 10 (so first is 4 or lower). Find the EV 3. Now you can choose the number of sides, should the lower sided dice be rolled first or second 4. Find the optimal number of sides to maximize the EV Third Round: 1. Given a tournament of 8 teams, what's the probability that two teams will meet if they have .5 probability of advancing to the next round, assuming the matchups are randomly selected 2. Now there are 9 teams and every round one team is selected to advance at random at each level, what's the probability that the two teams will meet. Superday: Never made it this far
+
+how much would you pay to enter a game (where you flip a coin, and get 5 dollars if it's a head, 0 dollar if it's a tail
+
+Maximum number of régions you can devide a plane with 6 lines.
+
+what is the expectation of the distance from X to the origin if X is uniformly drawn from the unit circle.
+
+Deriving linear regression as a maximum likelihood estimator
+
+Setting up calculus of variation for the brachistochrone curve problem
+
+write linear interpolation from scratch, basic questions on lasso and ridge regression.
+
 # Useful Review Links:
 - https://drive.google.com/drive/folders/1zxXNQKYrGk7fFnzaUb78VqVw-kv7Yy2B Stanford old midterms
 - Stanford class notes: https://web.stanford.edu/class/cs109/
 - Counting k balls in n boxes: https://tylerzhu.com/assets/handouts/ballsandboxes.pdf
 - L1 regression solved in different ways: http://blog.omega-prime.co.uk/2020/04/01/l1-regression/
+
