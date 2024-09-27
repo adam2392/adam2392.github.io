@@ -77,6 +77,7 @@ $$M_X(t) = E[e^{tX}]$$
 This formulation seems more abstract, but it has some nice properties. For example, the MGF of the sum of two independent random variables is the product of their MGFs. This is a very useful property when dealing with sums of random variables.
 
 ### Cumulative density function (CDF) and Probability density function (PDF)
+(https://uregina.ca/~kozdron/Teaching/UBC/302Fall10/Handouts/summary17.pdf)
 
 The cumulative density function (CDF) is the probability that a random variable takes on a value less than or equal to a certain value. The probability density function (PDF) is the derivative of the CDF. Many interview questions allow you to solve problems by deriving the PDF from the CDF. For example, consider the problem of deriving the PDF of the min/max of two independent random variables:
 
