@@ -268,6 +268,10 @@ Setting up calculus of variation for the brachistochrone curve problem
 
 write linear interpolation from scratch, basic questions on lasso and ridge regression.
 
+# Meta Interview Questions
+
+Design a next-word prediction system for words that are being typed for instance.
+
 # Useful Review Links:
 - https://drive.google.com/drive/folders/1zxXNQKYrGk7fFnzaUb78VqVw-kv7Yy2B Stanford old midterms
 - Stanford class notes: https://web.stanford.edu/class/cs109/
