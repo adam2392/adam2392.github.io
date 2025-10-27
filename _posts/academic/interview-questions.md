@@ -272,9 +272,182 @@ write linear interpolation from scratch, basic questions on lasso and ridge regr
 
 Design a next-word prediction system for words that are being typed for instance.
 
+# Tiktok Interview questions
+
+Longest duplicated substring: need binary search + Rabin-Karp algorithm.
+
+# Uber
+
+1. Sort a list of numbers based on their squares. -> Two pointer approach in O(n)
+2. Implement k-means algorithm from scratch
+3. Implement library to compute eigenvalues of a 2x2 matrix and test it.
+    - implement testing based on exact eigenvalues (e.g. diagonal matrices)
+    - implement testing based on getting the corresponding eigenvectors and
+        asserting that Av = \lambda v for \lambda eigenvalues and v eigenvectors.
+
+System design:
+
+1. Design recommendation system for Uber Eats.
+- how to define inputs/outputs
+
+# Virtu
+
+Probability of making a basket in the next shot is the proportion of made baskets.
+Initially, we make the first shot, and miss the second shot. What is the probability
+that the score is even when we have shot 10 times?
+
+Implement connect-four in Python from scratch. Simulation coding.
+
+0. Which is more likely to have extreme values for the min? A mutually exclusive window of samples, or a sliding
+window of samples?
+-> The mutually exclusive window of samples are essentially sums of independent random variables, and thus
+independent. The sliding window of samples are not independent, and thus the variance of the sum of the
+sliding window of samples is higher.
+
+
+1. Which is larger 99^100, or 100^99?
+-> use contractive property of the log function
+
+2. Number of digits in 100!?
+-> use Stirling's approximation, or use the fact that the number of digits in a number
+is given by \lfloor \log_{10} n \rfloor + 1.
+
+3. Recursive probability questions with changing Geometric distribution to get all the possible cards.
+
+4. How to sample in the uniform circle given a uniform sample in the unit square (X, Y)?
+-> re-parametrize the circle in terms of the angle, and then sample the angle uniformly.
+and then sample the radius in a manner that is proportional to the area of the circle.
+
+# ART Advisors
+
+Online Assessment questions:
+1. Given an integer n > 0, implement method to find the closest fibonnaci number to n:
+    - direct: O(log(n)) solution by iterating through fibonnaci numbers until we reach n or higher; keep track of f_n, f_n-1 and f_{n+1}
+        until f_{n+1} > n. Then return the closest of f_n and f_{n+1}.
+    - Binet formula: golden ratio phi = \frac{1 + \sqrt{5}}{2}, then f_n = \frac{\phi^n - (1 - \phi)^n}{\sqrt{5}}.
+        We can use this formula to find the closest fibonnaci number to n.
+        We can also invert and approximate the answer by recognizing that one term will go to 0 as n goes to infinity.
+
+2. Given array of strings, each string has a nested string like "key1.key2.key3.key4=value", implement
+a nested dict function that constructs and returns a nested Python dictionary form all the data items
+in the data array argument.
+
+build_nested_dict(['a.b=1', 'a.c=2']) will return {'a': {'b': 1, 'c': 2}}
+
+3. Build a class to do Linear Interpolation, with __init__ and __call__ functions. It will
+interpolate between two points (x1, y1) and (x2, y2) given a new x value.
+
+The __init__(self, x, y) gets passed in data to be interpolated, and may or may not be sorted.
+The __call__(self, x) function will return the interpolated value at x. If outside range, return np.nan
+
+y_interpolated = y1 + (y2 - y1) * (x_new - x1) / (x2 - x1) = "mx + b".
+
+- Do binary search to find x index O(log(n)) time complexity. Sort originally.
+- Interpolate in O(1).
+
+4. Consider the logistic map function f(x) = r * x * (1 - x), where r is a parameter, 0 < x < 1, and 0 <= r <= 4.
+Implement a function to determine the smallest value of r at which chaos onsets to within 1% precision.
+Assume n=100 iterations are suficient to determine chaos.
+
+- Iterate through r values from 0 to 4, and for each r, iterate through x values from 0 to 1, and iterate through n iterations.
+- estimate of lyapunov exponent: \sum_{i=1}^n \log |f'(x_i)| / n, where f'(x) = r - 2rx. We can monte carlo
+estimate this value by averaging over many x_0 values within the range [0, 1].
+- For each x value, we will monte carlo sample 100 instances to determine the lyapunov exponent andd whether 
+or not it is positive.
+
+1. If regression estimate of Y is highly sensitive to input X, then what's going on?
+    - ill-conditioned matrix, multicollinearity, overfitting
+    - solutions: regularization, applying PCA
+    - how is PCA related to geometry of the solution?
+        - projecting onto nullspace of the matrix, which is the direction of least variance
+
+2. Bayes theorem question on probability of true positive when test is positive.
+
+1. Given deck of unique cards, we play a game of: i) draw card, and ii) then put top card to bottom of deck, and then repeat until the entire deck is drawn.
+
+Return the deck such that the cards are revealed in increasing order when they are drawn. For example:
+
+Input: [3, 1, 2, 4]
+Output: [1, 3, 2, 4]
+
+2. What is the max rank of a matrix that A^2 = 0?
+
+3. How to access `__property` in a Python class? Class mangling.
+
+
+# Nvidia
+
+1. Implement accumulate of elements in C++ using templates and iterators.
+2. Implement function to compute einsum in Python.
+
+# Genentech LLM ML Engineering
+
+1. Coding: sequence to sequence transformation using valid sequences. Graph traversal.
+2. Explain cross entropy loss
+3. Explain difference between loss function and metrics: 
+    - I needed to mention differentiability
+4. Difference between 16 bit and 32 bit precision training in NVIDIA GPUs
+5. Advantages of taking log after softmax?
+6. Design a LLM RAG summary system.
+
+# HRT
+
+1. Return number of positive integers that are "fancy" with only 1's and 0's in its base-4 representation given a postivie integer n.
+2. Simulate the Othello game.
+3. Implement a function to construct a tree given a list of lists consisting of its keys, values
+and optionally idx of its children nodes. The indices index into the list of lists. Then
+print out the pre-order traversal.
+4. Implement a function to merge trees using some criterion. Requires recursion.
+
+# Amazon
+
+1. What are the pros and cons of transformers vs LSTMs?
+2. How does a transformer work?
+3. Implement a function to return a list of all valid parentheses given "n" the number
+of parentheses to use. Backtracking soln.
+
 # Useful Review Links:
+- Most helpful review, make sure you google/chat/read about each topic question and understand pros/cons/basic derivations/implementations https://huyenchip.com/ml-interviews-book/
+
 - https://drive.google.com/drive/folders/1zxXNQKYrGk7fFnzaUb78VqVw-kv7Yy2B Stanford old midterms
 - Stanford class notes: https://web.stanford.edu/class/cs109/
 - Counting k balls in n boxes: https://tylerzhu.com/assets/handouts/ballsandboxes.pdf
 - L1 regression solved in different ways: http://blog.omega-prime.co.uk/2020/04/01/l1-regression/
 
+
+https://www.reddit.com/r/MachineLearning/comments/17u7b19/comment/k922w67/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+Good luck with your interview
+
+https://rentry.org/llm-training
+
+Challenges and Applications of Large Language Models
+
+https://github.com/bkitano/llama-from-scratch
+https://github.com/rasbt/LLMs-from-scratch
+
+https://github.com/mlabonne/llm-course
+
+https://github.com/huggingface/alignment-handbook
+https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+
+https://www.philschmid.de/tags/generativeai
+
+https://difficult-link-dd7.notion.site/Wei-Shen-s-LLM-Blog-dc1c32b03e0e4f84b368dbd09ee9479a
+
+https://web.stanford.edu/class/cs224n/ and 224u, 224v
+
+https://eugeneyan.com/writing/llm-patterns/ (many other good blogposts)
+
+https://huyenchip.com/2023/04/11/llm-engineering.html
+
+https://lilianweng.github.io
+
+https://hamel.dev/notes/llm
+https://github.com/underlines/awesome-ml/blob/master/llm-tools.md
+
+RAG stuff(sentence embedding, vector db):
+https://www.pinecone.io/learn/
+https://www.sbert.net/
+https://haystackconf.com/us2023/keynote/
+https://www.latent.space/p/llamaindex#details

@@ -92,4 +92,3 @@ Now, we can differentiate the CDF to get the PDF:
 $$f_{min}(z) = \frac{dF_{min}(z)}{dz} = f_X(z)(1 - F_Y(z)) + f_Y(z)(1 - F_X(z))$$
 
 Note that assuming independence is crucial for this derivation. If the random variables have the same distribution, we can simplify this even further. The maximum of two random variables can be derived in a similar way.
-
